@@ -1,0 +1,23 @@
+# Build output
+Debug/
+Release/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.d
+
+# STM32CubeIDE / Eclipse project and workspace files
+.metadata/
+.settings/
+.project
+.cproject
+*.launch
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode
